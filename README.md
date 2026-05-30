@@ -18,7 +18,7 @@ EcoIndustria SCZ es una plataforma de telemetría industrial de alta eficiencia 
 * **Victor Alejandro Magne Manzano** — (@alejandro19-bot)
 * **Juan David Chiri Condori** — (@juandavidchiricondori-boop)
 * **Rosa Cruz José Maria** — (@RosaCruz-commits)
-* **Victor Alejandro Magne Manzano** — (@alejandro19-bot)
+* **Angel moises Azurduy Zambrana** — (@jjmm60656-bit)
 
 ---
 
