@@ -15,7 +15,7 @@ EcoIndustria SCZ es una plataforma de telemetría industrial de alta eficiencia 
 ### Integrantes:
 * **Carlos Diego Meneses Pinto** — (@carrlosttt-Bumble)
 * **Matias Vargas Gutierrez** — (@MatiaSVg-07)
-* [Nombre del Integrante 3] — (@usuario_github3)
+* **Victor Alejandro Magne Manzano** — (@alejandro19-bot)
 
 ---
 
